@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning PHP
 - 📫 How to reach me ...
 -     WHATSAPP:+91 9025488266
+-     Instagram: broken_torzen
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:
      Chat GPT is my best friend who helps in my critical situation. 😜
