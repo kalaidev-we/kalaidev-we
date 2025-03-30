@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m a Diploma Student of Information Technology <br>🌱 I’m currently learning PHP <br>💬 Ask me about @ Instagram <br>⚡ Fun fact: Chatgpt is my Best friend who helps me in a critical situation. 
 
 
 ## 🌐 Socials:
