@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Diploma Student of Information Technology <br>🌱 I’m currently learning PHP <br>💬 Ask me about @ Instagram <br>⚡ Fun fact: Chatgpt is my Best friend who helps me in a critical situation. 
+🔭 I’m a Diploma Student of Information Technology <br>🌱 I’m currently learning PHP <br>💬 Ask me about Web-developement <br>⚡ Fun fact: Chatgpt is my Best friend who helps me in a critical situation. 
 
 
 ## 🌐 Socials:
